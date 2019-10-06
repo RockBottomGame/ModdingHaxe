@@ -1,0 +1,3 @@
+# Use build.sh to actually build
+-cp src
+--java-lib lib/RockBottom.jar
