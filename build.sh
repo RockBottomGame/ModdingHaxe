@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 # Copy assets
 mkdir -p bin/obj
