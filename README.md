@@ -1,5 +1,7 @@
 # ModdingHaxe
-A basic modding setup for programming in [Haxe](https://haxe.org/). In case you want to use Haxe to write your Rock Bottom mod instead of Java, you can easily do so using this handy repository. Just follow the instructions below to get set up.
+A basic modding setup for programming in [Haxe](https://haxe.org/). In case you want to use Haxe to write your Rock Bottom mod instead of Java, you can easily do so using this handy repository. Just follow the instructions below to get set up. If you need a reference implementation, you can check out [NARB](https://github.com/Ellpeck/NARB).
+
+*Note: You should probably not use this. It's kind of a weird thing to do.*
 
 ## Setup
 1. Follow the [Haxe install tutorial](https://haxe.org/documentation/platforms/java.html) for Java
